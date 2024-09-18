@@ -97,7 +97,9 @@ cd prestigeplanners
 4. npm start
 
 
+Git Hub repo : https://github.com/Preksha2408/Preksha-PrestigePlanner-client.git
 
+Deployed App : https://prestigeplanners.netlify.app/
 
 
 ## Contact
